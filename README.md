@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, my name is Endrew Jonathan
+## Welcome to my profile in GitHub 👋
 
-<!--
-**Entreprise005/Entreprise005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou atualmente concluindo Ciência da Computação na UFMS e trabalhando em projetos de ciência de dados
+para uma empresa. Gosto muito de tecnologia e estudar vários temas diferentes.
 
-Here are some ideas to get you started:
+## Ferramentas e tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estou aprendendo atualmente
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> 
+
+- Além dessas tecnologias, estou estudando testes de software.
+
+<div>
+  <a href="https://github.com/Entreprise005">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Entreprise005&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Entreprise005&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
