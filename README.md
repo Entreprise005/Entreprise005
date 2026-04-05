@@ -11,5 +11,3 @@ para uma empresa. Gosto muito de tecnologia e estudar vários temas diferentes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/> 
 
 - Além dessas tecnologias, estou estudando testes de software.
-## Stats
-[![Entreprise GitHub stats](https://github-readme-stats.vercel.app/api?username=Entreprise005)](https://github.com/anuraghazra/github-readme-stats)
