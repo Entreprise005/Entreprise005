@@ -17,6 +17,5 @@ como PJ para uma empresa do ramo de dados e desenvolvimento de software.
 - Além dessas tecnologias, estou estudando testes de software.
 ## Contatos
 <div>
-<a href = "mailto:endrew_prigol@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/outlook-D13836?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/endrew-prigol-6b1680113" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:endrew_prigol@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/outlook-D13836?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>     <a href="https://www.linkedin.com/in/endrew-prigol-6b1680113" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
